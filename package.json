@@ -1,0 +1,26 @@
+{
+  "name": "slot-machine",
+  "description": "slot machine game",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Ashiq",
+  "scripts": {
+    "build": "webpack --mode production",
+    "deploy": "gh-pages -d dist",
+    "start": "webpack-dev-server --open --mode development"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "babel-loader": "^8.0.0",
+    "clean-webpack-plugin": "^1.0.0",
+    "css-loader": "^2.1.0",
+    "file-loader": "^3.0.0",
+    "gh-pages": "^2.0.1",
+    "html-webpack-plugin": "^3.0.6",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
