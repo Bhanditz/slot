@@ -1,5 +1,5 @@
 # Slot Machine
-slot machine game, built using  vanilla HTML, CSS and JavaScript for Derivco Test Task. 
+slot machine game, built using  vanilla HTML, CSS and JavaScript. 
 
 
 ## Installation, Build & Deployment
